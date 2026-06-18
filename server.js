@@ -67,7 +67,7 @@ body{font:16px/1.6 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaH
   <h3>📅 活动信息</h3>
   <div class="info-row">
     <span class="icon">📆</span>
-    <span><strong>时间：</strong>2026年6月21日（周六）— 6月22日（周日）</span>
+    <span><strong>时间：</strong>2026年6月20日（周六）— 6月21日（周日）</span>
   </div>
   <div class="info-row">
     <span class="icon">📍</span>
